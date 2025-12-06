@@ -1,0 +1,8 @@
+.claude
+checkpoints*
+Fed_Data
+PadChest_Data
+__pycache__
+*.pyc
+results*
+venv*
